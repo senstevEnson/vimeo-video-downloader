@@ -1,0 +1,7 @@
+{
+  "quality": "highest",
+  "use_proxy_for_download": false,
+  "proxy_url": "",
+  "output_dir": "downloads",
+  "timeout": 30
+}
