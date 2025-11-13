@@ -1,0 +1,14 @@
+{
+  "startUrls": [
+    {
+      "url": "https://vimeo.com/731185961"
+    },
+    {
+      "url": "https://player.vimeo.com/video/731185961"
+    }
+  ],
+  "quality": "highest",
+  "useProxyForDownload": false,
+  "proxyUrl": "",
+  "outputDir": "downloads"
+}
